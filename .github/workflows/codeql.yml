@@ -1,4 +1,4 @@
-name: CodeQL Advanced
+name: SAST Workflow/CodeQL/CodeQl - Analyze code
 
 on:
   push:
