@@ -23,7 +23,7 @@ jobs:
 
   analyze:
     needs: build
-    name: CodeQL Analyze
+    name: SAST Analyze
     runs-on: ubuntu-22.04
     permissions:
       security-events: write
